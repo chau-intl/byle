@@ -1,0 +1,6 @@
+/nbproject
+/node_modules
+package-lock.json
+/.vscode
+/input_data
+/src/__pycache__
